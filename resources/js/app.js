@@ -5,7 +5,7 @@
  */
 
 require('./bootstrap');
-
+require('./video-chat-server');
 window.Vue = require('vue');
 
 /**
